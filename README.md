@@ -1,10 +1,9 @@
-# upload-file-using-multer-in-nodejs
-Example Using multer upload single and multiple files in nodejs
-# Read more: https://anonystick.com/
+# Audio Concat and Replace Audio Using FFMPEG
+
 # How to use?
 Download project github
 ### $ npm install
 ### $ node app.js
 
-### test upload single: https://localhost:8080/uploadSingle
-### test upload multi : https://localhost:8080/uploadMultiple
+### API Docs : https://www.getpostman.com/collections/81b132002b2a3dd1fb91
+
