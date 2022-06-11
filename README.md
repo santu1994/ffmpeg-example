@@ -2,6 +2,7 @@
 
 # How to use?
 Download project github
+### $ mkdir uploads
 ### $ npm install
 ### $ node app.js
 
